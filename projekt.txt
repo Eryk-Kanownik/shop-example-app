@@ -1,0 +1,8 @@
+sklep internetowy
+    gotowe produkty 
+    koszyk
+    przkierowanie do płatności
+    stripe 
+    zapis do bazy danych koszyka z danymi
+    specjalna sekcja z wyświetlaniem zamówień
+
