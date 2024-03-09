@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Smartfon Apple iPhone 13",
+      "description": "Nowoczesny smartfon z zaawansowanymi funkcjami.",
+      "price": 999.99
+    },
+    {
+      "id": 2,
+      "name": "Laptop Dell XPS 15",
+      "description": "Wydajny laptop z dużym ekranem i wysoką rozdzielczością.",
+      "price": 1499.99
+    },
+    {
+      "id": 3,
+      "name": "Konsola do gier Sony PlayStation 5",
+      "description": "Najnowsza konsola do gier z zaawansowanymi funkcjami.",
+      "price": 499.99
+    },
+    {
+      "id": 4,
+      "name": "Słuchawki bezprzewodowe Bose QuietComfort 45",
+      "description": "Słuchawki zapewniające doskonałą jakość dźwięku i redukcję hałasu.",
+      "price": 329.99
+    },
+    {
+      "id": 5,
+      "name": "Telewizor Samsung 4K QLED 65-calowy",
+      "description": "Telewizor oferujący doskonałą jakość obrazu w rozdzielczości 4K.",
+      "price": 1499.99
+    },
+    {
+      "id": 6,
+      "name": "Aparat fotograficzny Canon EOS R6",
+      "description": "Profesjonalny aparat fotograficzny zapewniający doskonałą jakość zdjęć.",
+      "price": 2399.99
+    },
+    {
+      "id": 7,
+      "name": "Słuchawki Apple AirPods Pro",
+      "description": "Bezprzewodowe słuchawki douszne z aktywną redukcją hałasu.",
+      "price": 249.99
+    },
+    {
+      "id": 8,
+      "name": "Monitor LG UltraGear 27GN950-B",
+      "description": "Monitor gamingowy z wysoką częstotliwością odświeżania.",
+      "price": 999.99
+    },
+    {
+      "id": 9,
+      "name": "Robot kuchenny KitchenAid Artisan",
+      "description": "Wielofunkcyjny robot kuchenny do różnych zastosowań.",
+      "price": 399.99
+    },
+    {
+      "id": 10,
+      "name": "Smartwatch Garmin Fenix 6 Pro",
+      "description": "Zaawansowany smartwatch z funkcjami monitorowania zdrowia i aktywności fizycznej.",
+      "price": 699.99
+    }
+  ]
+  
